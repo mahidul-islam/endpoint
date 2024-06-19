@@ -1,4 +1,7 @@
 {
+    "total_value": 68095.0,
+    "change_percentage": 16.7,
+    "unrealized_gains": 8095.0,
     "current_investments" : [
         {
             "image_url": "https://via.placeholder.com/50x50/b3c1c9/FFFFFF?text=PlaceHolder",
@@ -23,6 +26,22 @@
             "priceChangeRate": 20.32,
             "price": 2987.12,
             "quantity": 35
+        }, 
+        {
+            "image_url": "https://via.placeholder.com/50x50/b3c1c9/FFFFFF?text=PlaceHolder",
+            "title": "FCNTX",
+            "category": "Equities",
+            "priceChangeRate": 20.32,
+            "price": 2987.12,
+            "quantity": 11
+        },
+        {
+            "image_url": "https://via.placeholder.com/50x50/b3c1c9/FFFFFF?text=PlaceHolder",
+            "title": "VTSAX",
+            "category": "Equities",
+            "priceChangeRate": 20.32,
+            "price": 2987.12,
+            "quantity": 41
         }
     ]
 }
