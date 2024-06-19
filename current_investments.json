@@ -1,0 +1,28 @@
+{
+    "current_investments" : [
+        {
+            "image_url": "https://via.placeholder.com/50x50/b3c1c9/FFFFFF?text=PlaceHolder",
+            "title": "VTSAX",
+            "category": "Equities",
+            "priceChangeRate": 20.32,
+            "price": 2987.12,
+            "quantity": 41
+        },
+        {
+            "image_url": "https://via.placeholder.com/50x50/b3c1c9/FFFFFF?text=PlaceHolder",
+            "title": "GNR",
+            "category": "Metal & Commodities",
+            "priceChangeRate": 20.32,
+            "price": 2987.12,
+            "quantity": 24
+        },
+        {
+            "image_url": "https://via.placeholder.com/50x50/b3c1c9/FFFFFF?text=PlaceHolder",
+            "title": "PTTRX",
+            "category": "Fixed Income",
+            "priceChangeRate": 20.32,
+            "price": 2987.12,
+            "quantity": 35
+        }
+    ]
+}
